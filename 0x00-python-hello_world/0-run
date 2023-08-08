@@ -1,0 +1,5 @@
+#!/usr/bin/python3
+#a script that welcomes everyone 
+
+name = input("what's your name ")
+print("Hello ", name)
